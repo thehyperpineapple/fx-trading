@@ -1,0 +1,21 @@
+# Trading Strategy Backtesting System - Requirements
+# Python 3.11
+
+# Data fetching
+yfinance>=0.2.28
+pandas>=2.0.0
+pandas-datareader>=0.10.0
+
+# Numerical computing
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Web application
+streamlit>=1.28.0
+
+# Optional: For better date handling and type hints
+python-dateutil>=2.8.2
+
